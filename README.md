@@ -1,12 +1,3 @@
-# Implementation Approach followed
-All components rgb are divided into 32 steps i.e, from 8,16 ...256.
-so I am using loop (using .map function ) to and calculate distinct rgb values initiating each component from 8 till 256
-While caluclating values I am displaying the values in dom.
-
-also to make it more interesting, There is an option to change the margin between colors to get different looking images
-also there is an shuffle button to shuffle the rgb values so that images looks different on shuffle button click.
-
-Code is seperated into different containers and components.
 
 
 # Getting Started with Create React App
